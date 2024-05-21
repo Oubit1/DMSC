@@ -1,5 +1,5 @@
 # Data Augmentation Strategies for Semi-Supervised Medical Image Segmentation
-by Jiahui Wang, Mingfeng Jiang*, Dongsheng Ruan, Yang Li, Zefeng Wang, Yongquan Wu, Tao Tan, Guang Yang, Senior Member, IEEE, Ling Xia
+by Jiahui Wang, Mingfeng Jiang*, Dongsheng Ruan, Yang Li, Tao Tan
 ## Introduction
 This repository is for our paper '[Dynamic Mask Splicing-guided Mixing Consistency for Semi-supervised 3D Medical Image Segmentation]
 ## Requirements
