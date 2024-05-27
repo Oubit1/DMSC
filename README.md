@@ -11,6 +11,9 @@ We use [the dataset of 2018 Atrial Segmentation Challenge](http://atriaseg2018.c
 We use [the dataset of Pancreas-CT](https://drive.google.com/file/d/1qzFUtkHx-46kFvHE7RAMhjAdo6dmn4iT/view?usp=sharing/).
 ### Preprocess
 If you want to process .nrrd data into .h5 data, you can use `code/dataloaders/preprocess.py`.
+### Pretrained_pth
+LA:「DMSC_LA_pretrained_pth.rar」https://pan.quark.cn/s/47f2161c5cfa  //uUqS
+Pancreas_CT:「DMSC_Pretrained_pth_Pancreas.rar」https://pan.quark.cn/s/ad537e31e52a  //JVVH
 
 
 ## Acknowledgements
